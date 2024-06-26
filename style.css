@@ -1,0 +1,54 @@
+body {
+    background-color: #c9b231;
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.table th, .table td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.form-control {
+    border-radius: 5px;
+}
+
+.btn {
+    border-radius: 5px;
+}
+
+.container {
+    margin-top: 50px;
+    max-width: 800px;
+}
+.container {
+    background-color: rgb(184, 158, 12);
+  }
+
+  .metade-colorida {
+    color: rgb(223, 189, 126);
+}
+
+body {
+    background-color:#c99931;
+}
+
+
+
+
